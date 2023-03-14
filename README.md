@@ -1,11 +1,4 @@
-# Mobile Dev Challenge
-
-Hello! Thank you for participating in our selection process for the Mobile Engineer role at Kickserv.
-
-The purpose of this challenge is to assess your React Native skills. This challenge should be completed by you and only you. The implementation and choice of tools may be discussed at another stage of the process.
-
-Please make sure to read all this document before starting.
-
+## Movies App built in React Native 
 ## Running locally
 
 Make sure you have all the necessary dependencies installed on your system:
