@@ -1,5 +1,6 @@
 ## Movies App built in React Native 
-## Running locally
+
+# Running locally
 
 Make sure you have all the necessary dependencies installed on your system:
 
@@ -20,3 +21,6 @@ To run the project locally:
 - Build and Run the app with `npx react-native run-ios` for the iOS version or `npx react-native run-android` for the Android version
 
 If you have problems with any of the instructions above, please refer to the React Native docs. This is a newly created app and the latest instructions there should help you get your environment up and running without issues.
+
+
+##Screenshots
